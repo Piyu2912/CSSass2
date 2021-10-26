@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(./image.html.jpg);
+}
+.header {
+  display: flex;
+  margin-left: 320px;
+}
+.first {
+  font-style: italic;
+  font-size: 26px;
+  border: 5px solid red;
+  background-color: black;
+  border-radius: 30px;
+  width: 320px;
+  padding: 20px;
+  color: white;
+  margin: 3%;
+  justify-content: space-evenly;
+  text-align: center;
+  align-self: center;
+}
+.form {
+  border: 5px dashed red;
+  display: inline-block;
+  width: 300px;
+  background-color: white;
+  padding: 25px;
+}
+.start {
+  border: 5px solid grey;
+  background-color: violet;
+  text-decoration: underline;
+  font-size: 19px;
+  font-style: italic;
+  font-weight: bold;
+  padding: 90px;
+  line-height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+}
+.menu {
+  padding: 12px;
+  /* margin: 20px; */
+  font-size: 15px;
+  /* width: 1800px; */
+}
+.text {
+  font-size: 26px;
+  border: 5px solid red;
+  background-color: black;
+  border-radius: 30px;
+  width: 320px;
+  padding: 10px;
+  color: white;
+  margin: 3%;
+  justify-content: space-evenly;
+  text-align: center;
+  align-self: center;
+}
+.items {
+  font-size: 20px;
+  color: blueviolet;
+  border: 2px solid green;
+  background-color: cyan;
+  display: inline-block;
+  padding: 4%;
+  margin: 15px;
+  width: 250px;
+}
+input[placeholder] {
+  text-align: center;
+}
+.one {
+  display: inline-block;
+  margin-left: 340px;
+}
+button {
+  font-size: 15px;
+}
+center {
+  display: inline-block;
+  margin-left: 200px;
+  margin-right: 140px;
+}
+h2 {
+  padding-bottom: 20px;
+  /* font-size: 35px; */
+}
+.list {
+  padding-top: 30px;
+}
+.p1 {
+  line-height: 30px;
+}
